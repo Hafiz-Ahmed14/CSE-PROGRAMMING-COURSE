@@ -8,6 +8,7 @@ finalarr = cv2.imread("/content/drive/MyDrive/Lab 1 DIP/histrogram.png", cv2.IMR
 
 
 #arr = np.array([[0,1,2,4], [0,0,3,5], [0,0,2,3],[1,7,1,1]])
+#arr
 
 mx = int(-1e9);
 
